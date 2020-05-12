@@ -1,0 +1,8 @@
+@import url(./resources__image/resources__image.css);
+@import url(./resources__logo-zone/resources__logo-zone.css);
+
+.resources {
+    display: flex;
+    flex-direction: column;
+    margin: 100px 0px 217px 0px;
+}

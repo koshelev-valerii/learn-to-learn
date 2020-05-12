@@ -1,0 +1,13 @@
+@import url(./cards__description/cards__description.css);
+@import url(./cards__image/cards__image.css);
+@import url(./cards__title/cards__title.css);
+
+.cards__item {
+    margin: 60px 100px 0px 0px;
+    width: 250px;
+    text-align: center;
+}
+
+.cards__item_last {
+    margin: 60px 0px 0px 0px;
+}

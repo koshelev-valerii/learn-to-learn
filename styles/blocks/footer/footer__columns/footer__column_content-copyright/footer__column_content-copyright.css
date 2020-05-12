@@ -1,0 +1,6 @@
+@import url(./footer__author/footer__author.css);
+
+.footer__column_content-copyright {
+    flex-basis: 711px;
+    position: relative;
+}

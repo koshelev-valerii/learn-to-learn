@@ -1,0 +1,12 @@
+@import url(./table__heading/table__heading.css);
+@import url(./table__text/table__text.css);
+
+.table__cell {
+    margin-top: 60px;
+    width: 250px;
+}
+
+.table__cell_theme_dark {
+    margin-top: 80px;
+    width: 200px;
+}

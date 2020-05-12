@@ -1,0 +1,11 @@
+@import url(./two-columns__link/two-columns__link.css);
+
+.two-columns__brief {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 175px;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: normal;
+}

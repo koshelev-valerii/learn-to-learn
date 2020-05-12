@@ -1,0 +1,11 @@
+@import url(./footer__item/footer__item.css);
+
+.footer__links {
+    margin-top: 20px;
+    margin-bottom: 16px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+    padding: 0px;
+    list-style-type: none;
+}

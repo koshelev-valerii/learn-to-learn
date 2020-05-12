@@ -1,0 +1,8 @@
+@import url(./cards__item/cards__item.css);
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 956px;
+    margin: 0px auto;
+}
